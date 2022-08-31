@@ -1,2 +1,2 @@
-#!/bin/bash
-kmdir /tmp/my_first_directory
+#!/bin/bashimdir 
+mkdir /tmp/my_first_directory
